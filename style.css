@@ -1,6 +1,12 @@
-caixa com sombra {
-  box-shadow: 15 -5 4 rgb(0 5 8);
-}
+  .caixa-com-sombra {
+            width: 200px;
+            height: 100px;
+            background-color: white;
+            border-radius: 8px;
+            
+            /* Aplicação da sombra */
+            box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.2);
+        }
 
 @media (max-width: 768px) {
   body {
