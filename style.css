@@ -1,19 +1,18 @@
  .meu-card {
             width: 250px;
             padding: 20px;
-            background-color: #ffffff;
+            background-color: #e795ba;
             border-radius: 8px;
             text-align: center;
             font-family: Arial, sans-serif;
             
-            /* 1. Define a sombra padrão */
+            
             box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15);
             
-            /* 2. Suaviza o sumiço da sombra (efeito de transição) */
+          
             transition: box-shadow 0.3s ease;
         }
 
-        /* 3. Remove a sombra quando o mouse passa por cima */
         .meu-card:hover {
             box-shadow: none;
         }
