@@ -1,4 +1,13 @@
-img {
-  width: 300px; 
-  height: auto; 
-}
+
+  .imagem {
+    padding: 40px;           
+    background-color: #f5f5f5; 
+  }
+
+ 
+  .imagem img {
+    width: 100%;              
+    max-width: 500px;        
+    height: auto;             
+    display: block;          
+  }
