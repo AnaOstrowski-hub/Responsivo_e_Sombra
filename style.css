@@ -2,13 +2,7 @@
   .imagem1 {
     padding: 40px;          
     background-color: #f5f5f5; 
-      display: flex;
-       gap: 16px; 
   }
-  .galeria img {
-  width: 200px; 
-  height: auto;  
-  
 
  
   .imagem1 img {
@@ -20,7 +14,23 @@
 
   .imagem1 {
   display: block; 
-  margin: 100px;   
+  margin: 0px;   
 }
 
-   
+   .imagem2 {
+    padding: 40px;         
+    background-color: #c6d8ff; 
+  }
+
+ 
+  .imagem2 img {
+    width: 100%;              
+    max-width: 500px;        
+    height: auto;             
+    display: block;          
+  }
+
+  .imagem2 {
+  display: block; 
+  margin: 100px;   
+}
