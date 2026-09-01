@@ -1,7 +1,6 @@
 
   .imagem1 {
-    padding: 40px;   
-    margin:50px;        
+    padding: 40px;          
     background-color: #f5f5f5; 
   }
 
@@ -13,9 +12,13 @@
     display: block;          
   }
 
+  .imagem1 {
+  display: block; 
+  margin: 50px;   
+}
+
    .imagem2 {
-    padding: 40px;   
-    margin:50px;        
+    padding: 40px;         
     background-color: #c6d8ff; 
   }
 
@@ -26,3 +29,8 @@
     height: auto;             
     display: block;          
   }
+
+  .imagem2 {
+  display: block; 
+  margin: 50px;   
+}
