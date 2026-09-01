@@ -12,3 +12,17 @@
     height: auto;             
     display: block;          
   }
+
+   .imagem2 {
+    padding: 40px;   
+    margin:50px;        
+    background-color: #c6d8ff; 
+  }
+
+ 
+  .imagem2 img {
+    width: 100%;              
+    max-width: 500px;        
+    height: auto;             
+    display: block;          
+  }
